@@ -11,7 +11,23 @@
 
 ##### Technology Stack
 <p float="left">
-<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/python-icon.png" width="160" height="150" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/tf_icon.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/python-icon.png" width="140" height="130" /> &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/tf_icon.png" width="370" height="170" /> &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/keras-icon.jpg" width="250" height="150" />
 </p>
+
+
+---
+
+### Directory structure
+
+```
+.
+├── docs               : pictures and other assets
+├── input              : input datasets
+├── notebooks          : Our Notebooks for 
+├── README             : README file for the project
+├── requirements.txt   : requirements.txt with module versions and dependencies
+├── src                : python code for experiments
+└── working            : Kaggle Notebooks 
+```
