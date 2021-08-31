@@ -23,11 +23,11 @@
 
 ```
 .
-├── docs               : pictures and other assets
-├── input              : input datasets
-├── notebooks          : Our Notebooks for 
-├── README             : README file for the project
-├── requirements.txt   : requirements.txt with module versions and dependencies
-├── src                : python code for experiments
-└── working            : Kaggle Notebooks 
+├── Appendix                : pictures
+├── Best Models Weights     : weights of best models saved in TensorFlow Checkpoint format
+├── Collect and Preprocess  : notebooks used to scrape, combine and explore data  
+├── Data                    : input datasets
+├── Models                  : notebooks used to create train and test the models
+├── Report                  : project report
+├── Readme                  : README file for the project
 ```
