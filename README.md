@@ -27,7 +27,8 @@
 ├── Best Models Weights     : weights of best models saved in TensorFlow Checkpoint format
 ├── Collect and Preprocess  : notebooks used to scrape, combine and explore data  
 ├── Data                    : input datasets
-├── Models                  : notebooks used to create train and test the models
+├── Models                  : notebooks used to create, train and test the models
+├── Requirements            : requirements.txt with versions and dependencies
 ├── Report                  : project report
 ├── Readme                  : README file for the project
 ```
