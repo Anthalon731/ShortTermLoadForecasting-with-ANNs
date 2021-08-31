@@ -1,9 +1,9 @@
-# ShortTermLoadForecasting with ANNs
-## Forecasting electrical load consumption in Greece using neural networks in Tensorflow and Keras
+## MSc in Business Analytics, Athens University of Economics and Business, 2020 - 2022
+### _Course: Machine Learning & Content Analytics_
+#### Short Term Load Forecasting with Artificial Neural Networks&nbsp;
  
-## MSc in Business Analytics at Athens University of Economics and Business, 2020 - 2022  
-## Course: Machine Learning & Content Analytics
-
-**Team Members**:
-1. Manos Pratikakis   
-2. Giorgos Dimopoulos  
+ ---- 
+##### Team Members
+* Manos Pratikakis
+* Giorgos Dimopoulos
+---- 
