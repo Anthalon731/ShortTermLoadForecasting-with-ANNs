@@ -12,6 +12,6 @@
 ##### Technology Stack
 <p float="left">
 <img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/python-icon.png" width="160" height="150" /> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/tf_icon.png" width="250" height="120" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/tf_icon.png" width="250" height="100" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/keras-icon.jpg" width="250" height="150" />
 </p>
