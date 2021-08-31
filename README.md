@@ -10,9 +10,9 @@
 In this project we explore different models and techniques that can be used to solve the Short Term Load Forecasting problem, based on artificial neural networks.
 
 ##### Technology Stack
-<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/python-icon.png" width="400" height="790">
-<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/tf_icon.png" width="400" height="790">
-<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/keras-icon.jpg" width="400" height="790">
+<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/python-icon.png" width="250" height="150">
+<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/tf_icon.png" width="250" height="150">
+<img src="https://raw.githubusercontent.com/ManosPra/ShortTermLoadForecasting-with-ANNs/main/Appendix/keras-icon.jpg" width="250" height="150">
 
 1. Python: <https://www.python.org/>
 2. Spark: <https://spark.apache.org/docs/latest/index.html>
